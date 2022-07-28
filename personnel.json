@@ -1,0 +1,569 @@
+{
+    "teams": [
+        {
+            "name": "Team_1",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Maria Anders", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Ana Trujillo", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Anto Moreno", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Christina Kaff", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Hanna Moos", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Peter Citeaux", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Jacob Wilson", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Zac Loan", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Abedi Zuri", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Fiera Swarna", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Mona Đức", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Cynesige Leopold", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Djuro Uduakobong", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Karabo Yachna", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Eliisabet Thales", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Leucippus Tarō", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Iacopo Braňka", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        {
+            "name": "Team_2",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Stan Gerrit", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Paraskevas Nit", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Nisha Gilberto", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Hólmgeirr Ciar", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Radoslava Nooa", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Vivek Micheal", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Herais Atila", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Elisabet Fien", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Hamid Hillary", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Nannie Amanda", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Liberty Marek", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Lorette Éamon", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Kasimira Hüsnü", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Remington Anayeli", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Goemon Erik", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Benjamin Matis", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Artemius Franci", "Designation": "S/w Engg"
+                    }
+            ]
+        }, 
+        {
+            "name": "Team_3",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Liviana Valter", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Khnum-Khufu Ljudmil", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Apanii Darina", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Sergo Fazl", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Divna Bernadette", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Else Klava", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Ursinus Ninochka", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Michalina Seong-Su", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Nihal Melanthios", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Stuart Hyeon-Jeong", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Theia Caiside", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Sarala Zosime", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Elain Themistoklis", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Lis Soodeh", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Félix Finbar", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Andreas Lucrécia", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Khushi Slavomíra", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        { 
+            "name": "Team_4",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Sigilind Tasnim", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Flavio Beau", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Sheena Bethuel", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Séarlait Zdravko", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Josef José Manuel", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Rufaro Amore", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Nikomedes Pilib", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Oshea Vlado", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Lila Adah", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Helena Æðelþryð", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Talya Harish", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Sujatha Branko", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Ligeia Teresa", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "María Isabel Bisera", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Annet Arachne", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Neasa Mujo", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Franka Stavros", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        {
+            "name": "Team_5",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Muhsin Preeti", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Þórgeirr Norah", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Uduakobong Nedeljko", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Maëlle Mitya", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Lexy Isam", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Takumi Krister", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Leila Chica", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Lugalbanda Václav", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Tewodros Tiyamike", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Indra Ólaug", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Ganesh Akhenaten", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Hugo Fernanda", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Lidia Abraham", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Ashish Victoria", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Ansley Kanye", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Mieke Alexei", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Embla Methoataske", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        {
+            "name": "Team 6",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Sevinj Cailean", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Caesonius Martin", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Maximilien Maura", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Vincent Hilario", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Lígia Eysteinn", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Padrig Doris", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Perce Danijel", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Emeka François", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Aldhard Khurshid", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Zsuzsi Ælred", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Gallcobar Hermann", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Obi Hallvarðr", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Kamila Fachtna", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Tanit Müjde", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Hana Aida", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Marcelin Ștefan", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Ratislav Pradip", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        {
+            "name": "Team_7",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Nicolò Om", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Ywain Dip", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Meiriona Ruska", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Muhammad Eliav", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Remei Gratia", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Kamakshi Sikandar", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Fermín Paulos", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Sitti Joaquima", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Madeleine Ilu", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Astérix Lindiwe", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Joseph Ilham", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Lettice Antónia", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Slađana Estera", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Damion Lishan", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Stefaniya Bradamante", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Stanislav Wine", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Eustorgio Philomena", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        {
+            "name": "Team 8",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Sophokles Fannie", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Żaklina Shamash", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Hoshi Dominique", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Gwenhael Xiulan", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Masoud Ajax", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Mahesh Kleitos", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Borislav Magda", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Esben Daliborka", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Lysistrata Aimé", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Gisele Pia", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Korinna Khufu", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Luciano Marje", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Erva Hilda", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Ronan Vanya", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Artemisia Lorne", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Maybelline LaShawn", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Robert Gautam", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        {
+            "name": "Team 9",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Elfa Dipika", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Vasiliki Max", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Owen Wally", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Hosanna Fflur", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Eadburga Abd ar-Rahman", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Kinsley Sho", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Loukios Karen", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Jarek Olívia", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Omer Sadi", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Denis Lech", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Priya Andrius", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Voldemort Idalia", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Anselmo Sahar", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Elmar Proinsias", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Om Kolman", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Rambabu Ariadna", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Bruna Lydie", "Designation": "S/w Engg"
+                    }
+            ]
+        },
+        {
+            "name": "Team_10",
+            "people": [
+                {
+                    "Grade": 13, "Name": "Yuraq Merita", "Designation": "Managing Director"
+                },
+                {
+                    "Grade": 12, "Name": "Stasia Paolino", "Designation": "Project Manager"
+                },
+                {
+                    "Grade": 11, "Name": "Kwadwo Gwydion", "Designation": "Project Lead"
+                },
+                {
+                    "Grade": 9, "Name": "Yakiv Sergi", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 9, "Name": "Roselyn Marjana", "Designation": "Senior Manager"
+                },
+                {
+                    "Grade": 8, "Name": "Radobod Nirmala", "Designation": "Senior Manager"
+                },
+                {
+                        "Grade": 8, "Name": "Montserrat Josse", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Jørgen Aqissiaq", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 8, "Name": "Hermine Kristiāns", "Designation": "Manager"
+                    },
+                {
+                        "Grade": 6, "Name": "Gust Momoko", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Antipatros Reinhilde", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Calvus Fáelán", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Arkady Jessé", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Headley Diarmaid", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Livia Tammaro", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Khnum-Khufu Eero", "Designation": "S/w Engg"
+                    },
+                {
+                        "Grade": 6, "Name": "Brage Sieffre", "Designation": "S/w Engg"
+                    }
+            ]
+        }
+    ],
+    "execs": [
+        {
+            "Name": "Chuck Robbins", "Designation": "CEO"           
+        }
+    ]
+}
